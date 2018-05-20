@@ -1,0 +1,85 @@
+Don't totem (500k trials)
+.010648
+
+Totem First, Don't Portal
+.0139
+.01382
+
+Totem First, Portal always
+.014792
+.016956 (with 3hp portal)
+
+
+Totem First, Portal with spell dmg only
+.015054
+.017016 (3hp portal)
+
+spell dmg rolled, 3hp portal, portal first
+.028276
+
+37 have 1hp
+15 have 2hp
+5 have 3hp
+1 has 4hp
+
+UPDATED WITH MAELSTROM HP STATS
+fix spell dmg, portal first
+.022718
+
+.022538
+
+fix spell dmg, portal second
+.017242
+
+No portal, No totem
+.010406
+
+.012257 (you can roll spell dmg afterwords)
+
+Totem, Portal After
+.013676
+
+Totem, Portal First Always
+.015666
+.015566
+.015348
+
+.015663
+.015529
+
+.0154876
+
+Totem, Portal only spell dmg
+.015462
+.015496
+.01564
+
+.015683
+.015570
+
+.0156054
+No Spell Damage, totem first, portal after
+.013746
+
+No Spell Damage, totem first, portal first
+.013028
+
+https://clips.twitch.tv/TangentialDeterminedCockroachMoreCowbell
+
+no patches, boar, mistress
+
+Best case
+.0287572
+
+Portal First, Totem First, 1m Trials
+7hp: .016648
+8hp: .016549
+8hp: .016486
+9hp: .016697
+10hp .016483
+11hp .016610
+
+5hp: .016786
+10hp: .016483
+15hp: .016551
+20hp: .016549
